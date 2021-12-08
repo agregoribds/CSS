@@ -15,3 +15,57 @@
 	height: 20pt;
 	padding: 3px;
 }
+
+.Tabla .column_0 {
+	background-color: rgba(255,0,0,1) !important;
+	position: fixed !important;
+	width: 80px;
+	z-index: 11000;
+	height: 20pt;
+	padding: 3px;
+}
+
+.Tabla .column_1 {
+	background-color: rgba(255,0,0,1) !important;
+	position: fixed !important;
+	width: 80px;
+	z-index: 11000;
+	height: 20pt;
+	padding: 3px;
+}
+
+.Tabla .Sector {
+	background-color: rgba(255,0,0,1) !important;
+	position: fixed !important;
+	width: 80px;
+	z-index: 11000;
+	height: 20pt;
+	padding: 3px;
+}
+
+.Tabla .Valor {
+	background-color: rgba(255,0,0,1) !important;
+	position: fixed !important;
+	width: 80px;
+	z-index: 11000;
+	height: 20pt;
+	padding: 3px;
+}
+
+.dTableCointainer .Sector {
+	background-color: rgba(255,0,0,1) !important;
+	position: fixed !important;
+	width: 80px;
+	z-index: 11000;
+	height: 20pt;
+	padding: 3px;
+}
+
+.dTableCointainer .Valor {
+	background-color: rgba(255,0,0,1) !important;
+	position: fixed !important;
+	width: 80px;
+	z-index: 11000;
+	height: 20pt;
+	padding: 3px;
+}
