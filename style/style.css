@@ -1,0 +1,4 @@
+.visual_29a9de69-5e3d-4a6e-b061-f1d5675653b4 td.contentValueTableCell.readOnly, .visual_29a9de69-5e3d-4a6e-b061-f1d5675653b4 td.contentValueTableCell.totalsColumn.readOnly, .visual_29a9de69-5e3d-4a6e-b061-f1d5675653b4 td.contentValueTableCell.totalsRow.readOnly, .visual_29a9de69-5e3d-4a6e-b061-f1d5675653b4 td.contentValueTableCell.totalsRow.readOnly:not(altRow) {
+    color: #000000;
+    background-color: #B9CABD;
+}
