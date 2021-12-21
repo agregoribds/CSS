@@ -2,3 +2,9 @@
     color: #000000;
     background-color: #fa0089;
 }
+
+.visualControl.dataEntryMatrix td.contentValueTableCell {
+    border-width: 100000
+px
+;
+}
